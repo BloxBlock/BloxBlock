@@ -128,4 +128,4 @@ What would make this useful in your workflow?
 What is missing for you to actually use this in real projects?
 🔗 Links
 Live app: https://bloxblock-app.web.app
-GitHub: (add repo link here)
+GitHub: (https://github.com/BloxBlock/BloxBlock/blob/main/README.md)
